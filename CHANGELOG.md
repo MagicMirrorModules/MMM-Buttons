@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.3](https://github.com/MagicMirrorModules/MMM-Buttons/compare/v2.1.2...v2.1.3) (2026-10-16)
+
+### Maintenance
+
+* **release:** use explicit changelog config ([174b491](https://github.com/MagicMirrorModules/MMM-Buttons/commit/174b4916c124b104ea8d423b5ac89c71fb906107))
+* update devDependencies ([20bdf1e](https://github.com/MagicMirrorModules/MMM-Buttons/commit/20bdf1e3e25103d638f837409282228f1811c57f))
+
+### Tests
+
+* **buttons:** add node:test coverage ([33e539d](https://github.com/MagicMirrorModules/MMM-Buttons/commit/33e539d991023c4803db79dcb276c7171848fc56))
+
+### Continuous Integration
+
+* add automated testing workflow ([4e4b7e7](https://github.com/MagicMirrorModules/MMM-Buttons/commit/4e4b7e75df7262b9a01a419f11eeb5c844b47ff0))
+
 ## [2.1.2](https://github.com/MagicMirrorModules/MMM-Buttons/compare/v2.1.1...v2.1.2) (2026-07-07)
 
 
