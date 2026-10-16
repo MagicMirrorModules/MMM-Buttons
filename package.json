@@ -40,6 +40,8 @@
   "scripts": {
     "lint": "eslint",
     "lint:fix": "eslint --fix",
+    "test": "node --run lint && node --run test:unit",
+    "test:unit": "node --test tests/unit/*.test.js",
     "prepare": "simple-git-hooks || true",
     "spellcheck": "cspell --no-progress \"**/*\"",
     "release": "commit-and-tag-version",
